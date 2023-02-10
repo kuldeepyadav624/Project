@@ -1,0 +1,105 @@
+body {
+    font-family: sans-serif;
+      margin: 0px;
+      padding: 0px;
+      width: 100%;
+    }
+
+header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 64px;
+    background-color: rgba(160, 157, 157, 0.16);
+    color: brown;
+   
+}
+
+header .left img {
+    display: flex;
+    width: 20px;
+    height: 23px
+}
+   
+.right {
+
+    display: flex;
+}
+section{
+    text-align-last: center;
+    
+}
+.nav h1{
+    font-size: 40px;
+    font-weight: bolder;
+    color: brown;
+}
+.btn{
+    color: whitesmoke;
+    background-color:  brown;
+     
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: rgb(65, 25, 25);
+    color:white;
+}.navigation{
+     border: 30px solid white; 
+    border-left: 60px solid white;
+}
+.update{
+    padding-top: 50px;
+    height: 100px;
+    margin: 30px;
+   text-align: center;
+   font-size: 20px; 
+   font-weight: 700; 
+}
+
+.salon img{
+    width: 345px;
+    height: 45opx;
+    margin: 31px;
+    padding: 5px;
+}
+.text z{
+    color:  brown;
+    font-weight: 700;
+}
+.text D{
+    color:  brown;
+    font-display: bold;
+    font-weight: 600;
+}
+.about{
+    background-color:  rgba(160, 157, 157, 0.16);
+    border: 40px solid white; 
+    margin: 20px;
+    padding:16px;
+    width: 80%;
+    height: 200px;
+}
+.about p{
+ text-align: center;
+ font-size: 20px; 
+ font-weight: 700;
+}
+ .row h3{
+    text-align: center;
+ font-size: 20px; 
+ font-weight: 700;
+} 
+.images{
+    border: 30px solid white;
+    margin: 10px;
+    padding: 4px;
+}
+ .images img{
+    height:300px;
+    width: 340px;
+    margin: 2px;
+   
+ }
+
+   
+  
